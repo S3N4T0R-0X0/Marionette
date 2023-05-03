@@ -12,8 +12,7 @@ Build: gcc MARIONETTE.c -o MARIONETTE
 Use : ./command_control ip_address port
 
 
-![Screenshot from 2023-05-03 08-49-13](https://user-images.githubusercontent.com/121706460/235921050-c476eed7-ff85-4b20-89fd-899318af3573.png)
+               ![Screenshot from 2023-05-03 08-49-13](https://user-images.githubusercontent.com/121706460/235921050-c476eed7-ff85-4b20-89fd-899318af3573.png)
 
 
 
-![1131125-text-logo-Linux-Tux-brand-darkness-symbol-computer-wallpaper-black-and-white-monochrome-photography-font](https://user-images.githubusercontent.com/121706460/235921274-b49ec4be-30f7-4093-9c0f-8c759af3dc08.jpg)
