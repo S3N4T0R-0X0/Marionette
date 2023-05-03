@@ -12,7 +12,7 @@ Build: gcc MARIONETTE.c -o MARIONETTE
 Use : ./command_control ip_address port
 
 
-               ![Screenshot from 2023-05-03 08-49-13](https://user-images.githubusercontent.com/121706460/235921050-c476eed7-ff85-4b20-89fd-899318af3573.png)
-
+                                       
+           ![Screenshot from 2023-05-03 08-49-13](https://user-images.githubusercontent.com/121706460/235921751-cf5b54d9-c1eb-451a-9951-54d1a5fbe99d.png)
 
 
