@@ -13,6 +13,6 @@ Use : ./command_control ip_address port
 
 
                                        
-           ![Screenshot from 2023-05-03 08-49-13](https://user-images.githubusercontent.com/121706460/235921751-cf5b54d9-c1eb-451a-9951-54d1a5fbe99d.png)
 
 
+![Screenshot from 2023-05-03 08-49-13](https://user-images.githubusercontent.com/121706460/235921849-c3766e12-ec4e-4e03-995d-2f038bf05127.png)
