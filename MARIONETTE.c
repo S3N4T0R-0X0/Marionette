@@ -4,8 +4,12 @@ In this code, replace the call to write with the code that sends the command to 
 Note that you will need to provide the IP address and port number of the AM0N-Eye and Cobalt Strike beacon as command-line arguments when you run the program.
 Replace ip_address and port with the IP address and port number of the AM0N-Eye and Cobalt Strike beacon you want to connect to.
 
-Hiding our Target Process
-Since our function already calls the original read() function we have all the information we need to hide the process in the buf pointer.
+Hiding Target Process
+Since function already calls the original read() function  have all the information we need to hide the process in the buf pointer.
+
+
+Build: gcc MARIONETTE.c -o MARIONETTE
+Use : ./command_control ip_address port
 
  -------------------------------
 | Author : S3N4T0R               |
