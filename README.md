@@ -10,5 +10,8 @@ Since function already calls the original read() function  have all the informat
 
 Build: gcc MARIONETTE.c -o MARIONETTE
 Use : ./command_control ip_address port
-![Screenshot from 2023-05-03 08-49-13](https://user-images.githubusercontent.com/121706460/235920797-2a0cf863-0f83-476e-bd82-d3803fe6ffb5.png)
+
+
+
+
 
