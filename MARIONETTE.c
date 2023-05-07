@@ -15,6 +15,7 @@ Use : ./command_control ip_address port
 | Author : S3N4T0R               |
 | Name : MARIONETTE              |
 | Date : April 30sun 2023        |
+| OS   : Linux                   |  
  --------------------------------
 Build: gcc MARIONETTE.c -o MARIONETTE
 Use : ./command_control ip_address port
