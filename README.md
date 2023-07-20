@@ -1,5 +1,5 @@
 # Marionette
-This repository contains a C code snippet that can be used to connect to an AM0N-Eye and Cobalt Strike beacon using a TCP socket on Linux. The code establishes a connection to the beacon, sends commands to it, and receives the responses. Note that you will need to provide the IP address and port number of the AM0N-Eye and Cobalt Strike beacon as command-line arguments when you run the program.
+This repository contains a C code snippet that can be used to connect to an AM0N-Eye beacon using a TCP socket on Linux. The code establishes a connection to the beacon, sends commands to it, and receives the responses. Note that you will need to provide the IP address and port number of the AM0N-Eye and Cobalt Strike beacon as command-line arguments when you run the program.
 
 The code also includes a function for hiding the target process, which can be achieved by calling the original read() function and using the information obtained to conceal the process in the buf pointer.
 
